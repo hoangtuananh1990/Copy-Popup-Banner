@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2Fru55c' target='_blank'><img src='http://datnenso.vn/wp-content/uploads/2017/12/nha-pho-1-tret-2-lau-300x225.jpg' width='500px'/><br/>13 Mua ngay với giá rẻ</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2kVCghv' target='_blank'><img src='http://tapdoantrananh.com/wp-content/uploads/2017/10/bella-vista.jpg' width='500px'/><br/>13 Dự án Bella Vista</a>. Vị trí đắc địa, tiện ích vượt trội. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
