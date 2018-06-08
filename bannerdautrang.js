@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2kVCghv' target='_blank'><img src='http://tapdoantrananh.com/wp-content/uploads/2017/10/bella-vista.jpg' width='500px'/><br/>13 Dự án Bella Vista</a>. Vị trí đắc địa, tiện ích vượt trội. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2M9S5O3' target='_blank'><img src='http://tapdoantrananh.com/wp-content/uploads/2017/10/bella-vista.jpg' width='500px'/><br/>13 Dự án Bella Vista</a>. Vị trí đắc địa, tiện ích vượt trội. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
